@@ -1,0 +1,15 @@
+.parent {
+    width: 200px;
+    height: 150px;
+    background-color: blueviolet;
+    position: relative;
+}
+
+.parent button {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    background-color:rgb(151, 207, 22);
+    text-transform: uppercase;
+    cursor: pointer;
+}
